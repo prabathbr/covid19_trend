@@ -1,9 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# COVID-19 country-wise trend forcasting with Facebook Prophet
+# COVID-19 trend forcasting with Facebook Prophet
 
 A simple Python script (Jupyter Notebook) to forcast COVID-19 daily cases for a given country using Facebook Prophet and "Our World in Data" data source (continuously up-to-date).
 
-## Inital Parameters
+## Initial Parameters
 Please set initial paramerters as required.
 
 1. Set data source : data_source = 'https://covid.ourworldindata.org/data/owid-covid-data.csv'
@@ -24,7 +24,7 @@ Please set initial paramerters as required.
 
 ## References
 1. Facebook Prophet : https://facebook.github.io/prophet/docs/quick_start.html#python-api
-1. Data Source : https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+1. "Our World in Data" Data Source CSV : https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
 1. Trend Flexibility : https://facebook.github.io/prophet/docs/trend_changepoints.html#automatic-changepoint-detection-in-prophet
    
 ## Sponsor
