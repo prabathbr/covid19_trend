@@ -20,12 +20,12 @@ Please set initial paramerters as required.
 ## Credits
 1. "Our World in Data" and its respective authors for providing up-to date data at https://github.com/owid/covid-19-data/tree/master/public/data
 1. Facebook, Inc. and its affiliates for "Facebook Prophet" library at https://github.com/facebook/prophet
-1. Authors and affiliates of all other libraries and technologies used in this script.
+1. Authors and affiliates of all other libraries and technologies (including Python, Pandas, Plotly and Matplotlib) used in this script.
 
 ## References
-Facebook Prophet : https://facebook.github.io/prophet/docs/quick_start.html#python-api
-Data Source : https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
-Trend Flexibility : https://facebook.github.io/prophet/docs/trend_changepoints.html#automatic-changepoint-detection-in-prophet
+1. Facebook Prophet : https://facebook.github.io/prophet/docs/quick_start.html#python-api
+1. Data Source : https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+1. Trend Flexibility : https://facebook.github.io/prophet/docs/trend_changepoints.html#automatic-changepoint-detection-in-prophet
    
 ## Sponsor
 DataDisca Pty Ltd, Melbourne, Australia
