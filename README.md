@@ -10,6 +10,7 @@ Please set initial paramerters as required.
 1. Select Country : show_country = 'Spain'
 1. Adjusting trend flexibility : trend_flexibility = 1.0
 1. Set number of forcasting days : days_forcasting = 90
+1. Set number of previous days to be considered for forcasting : last_days_count = 30 
 
 ## Requirements
 1. Facebook Prophet : "install -c conda-forge fbprophet"
