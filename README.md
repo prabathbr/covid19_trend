@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# COVID-19 trend forcasting with Facebook Prophet
+# COVID-19 trend forecasting and visualising with Facebook Prophet
 
 A simple Python script (Jupyter Notebook : COVID19_Trend.ipynb) to forcast COVID-19 daily cases for a given country using Facebook Prophet and "Our World in Data" data source (continuously up-to-date).
 
